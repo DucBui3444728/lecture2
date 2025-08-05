@@ -6,11 +6,6 @@ public class New1 {
         System.out.println("sdhjksdhks");
         System.out.println("Modify");
         System.out.println("sdhjksdhks");
-        System.out.println("Modify");
-        System.out.println("sdhjksdhks");
-        System.out.println("Modify");
-        System.out.println("sdhjksdhks");
-        System.out.println("Modify");
 
     }
 }
